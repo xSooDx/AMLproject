@@ -1,10 +1,9 @@
 Deep Q Learning with Inception Module
 
 Project Team:
-    Nishant Bhattacharya	01FB14ECS136
-    Saurabh Sood    		    01FB14ECS215
-    Srinidhi Sridhar		        01FB14ECS252
-
+    Nishant B.
+    Saurabh S.    		  
+    Srinidhi S.		      
 Dependancies:
 
     pip install --no-index -f https://github.com/Kojoley/atari-py/releases atari_py
